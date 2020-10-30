@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T09:08:26.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dG7I33F6fGCumMldFOVW" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T09:08:50.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="eQfKsSpmE2sUKuV2GnyD" version="13.8.7" type="github">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="1183" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -20,22 +20,22 @@
           <mxGeometry x="570" y="140" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="310" width="220" height="120" as="geometry" />
+          <mxGeometry x="262" y="310" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-5" value="机柜1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
-          <mxGeometry width="44" height="120" as="geometry" />
+          <mxGeometry width="42" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-6" value="机柜2" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
-          <mxGeometry x="44" width="44" height="120" as="geometry" />
+          <mxGeometry x="42" width="42" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-7" value="机柜3" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
-          <mxGeometry x="88" width="44" height="120" as="geometry" />
+          <mxGeometry x="84" width="42" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-8" value="机柜4" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
-          <mxGeometry x="132" width="44" height="120" as="geometry" />
+          <mxGeometry x="126" width="42" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-9" value="机柜5" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
-          <mxGeometry x="176" width="44" height="120" as="geometry" />
+          <mxGeometry x="168" width="42" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-11" value="&lt;pre&gt;&lt;font style=&quot;font-size: 13px ; line-height: 100%&quot; face=&quot;Helvetica&quot;&gt;配电柜&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="40" height="20" as="geometry" />
