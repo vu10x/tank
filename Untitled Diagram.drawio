@@ -1,38 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T08:56:38.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cR4q73GAfdOAZWAtX-Ez" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T09:08:26.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dG7I33F6fGCumMldFOVW" version="13.8.7" type="github">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
-    <mxGraphModel dx="979" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vF6JxQmsjFy-IQ692hur-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="110" width="610" height="610" as="geometry" />
+          <mxGeometry x="100" y="120" width="540" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="vF6JxQmsjFy-IQ692hur-2" value="" style="shape=flexArrow;endArrow=classic;html=1;width=24.571428571428573;endSize=10.08;entryX=0.492;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="vF6JxQmsjFy-IQ692hur-2" value="" style="shape=flexArrow;endArrow=classic;html=1;width=53.10344827586207;endSize=12.537931034482758;strokeColor=#000000;endWidth=49.950738916256164;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="720" as="sourcePoint" />
-            <mxPoint x="140.12" y="700.23" as="targetPoint" />
+            <mxPoint x="100" y="630" as="sourcePoint" />
+            <mxPoint x="120" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-3" value="门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="680" width="40" height="20" as="geometry" />
+          <mxGeometry x="110" y="610" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vF6JxQmsjFy-IQ692hur-4" value="空调" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="640" width="40" height="60" as="geometry" />
+          <mxGeometry x="570" y="140" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF6JxQmsjFy-IQ692hur-5" value="机柜1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="340" width="40" height="90" as="geometry" />
+        <mxCell id="vF6JxQmsjFy-IQ692hur-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="310" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vF6JxQmsjFy-IQ692hur-6" value="机柜2" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="40" height="90" as="geometry" />
+        <mxCell id="vF6JxQmsjFy-IQ692hur-5" value="机柜1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
+          <mxGeometry width="44" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vF6JxQmsjFy-IQ692hur-7" value="机柜3" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="40" height="90" as="geometry" />
+        <mxCell id="vF6JxQmsjFy-IQ692hur-6" value="机柜2" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
+          <mxGeometry x="44" width="44" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vF6JxQmsjFy-IQ692hur-8" value="机柜4" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="40" height="90" as="geometry" />
+        <mxCell id="vF6JxQmsjFy-IQ692hur-7" value="机柜3" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
+          <mxGeometry x="88" width="44" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vF6JxQmsjFy-IQ692hur-9" value="机柜5" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="40" height="90" as="geometry" />
+        <mxCell id="vF6JxQmsjFy-IQ692hur-8" value="机柜4" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
+          <mxGeometry x="132" width="44" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vF6JxQmsjFy-IQ692hur-9" value="机柜5" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="vF6JxQmsjFy-IQ692hur-10">
+          <mxGeometry x="176" width="44" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vF6JxQmsjFy-IQ692hur-11" value="&lt;pre&gt;&lt;font style=&quot;font-size: 13px ; line-height: 100%&quot; face=&quot;Helvetica&quot;&gt;配电柜&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vF6JxQmsjFy-IQ692hur-13" value="OA服务器柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="306" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vF6JxQmsjFy-IQ692hur-14" value="DHCP服务器柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vF6JxQmsjFy-IQ692hur-15" value="网络交换机柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="394" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vF6JxQmsjFy-IQ692hur-16" value="乡站通信服务器柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
